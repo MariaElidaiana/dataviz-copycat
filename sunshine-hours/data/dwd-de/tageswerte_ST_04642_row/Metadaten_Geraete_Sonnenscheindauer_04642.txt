@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4642;Seehausen;11.73;52.89;21.55;4.4;19910101;19920330;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.4;19920331;19920525;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;19920526;19940309;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;19940331;20170828;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20170829;20191009;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20191010;20200601;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20200604;20210614;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;;20210615;20230820;Pyranometer CM21 (+Sonne);Sonnenscheind/Strahlungs-/Sonnenscheinmessung, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;;20250611;20251020;Pyranometer CM21 (+Sonne);Sonnenscheind/Strahlungs-/Sonnenscheinmessung, elektr.;eor;
+generiert: 21.10.2025 --  Deutscher Wetterdienst  --

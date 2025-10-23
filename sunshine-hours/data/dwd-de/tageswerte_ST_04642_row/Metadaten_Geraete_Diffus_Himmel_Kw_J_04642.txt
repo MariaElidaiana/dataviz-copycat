@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4642;Seehausen;;;;;19950501;20031202;Gerätetyp unbekannt;Strahlungsmessung;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20031203;20120619;Pyranometer PRM2;Strahlungsmessung;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20031203;20140626;Pyranometer CM21;Strahlungsmessung, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20140627;20161005;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20161006;20200601;Pyranometer CM21;Strahlungsmessung, elektr.;eor;
+4642;Seehausen;11.73;52.89;21.55;4.85;20210728;20230820;Pyranometer CM21;Strahlungsmessung, elektr.;eor;
+generiert: 21.10.2025 --  Deutscher Wetterdienst  --

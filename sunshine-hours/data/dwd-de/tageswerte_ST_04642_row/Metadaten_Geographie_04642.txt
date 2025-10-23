@@ -1,0 +1,6 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4642;   23.00; 52.8894; 11.7527;18820501;19311130;Seehausen
+  4642;   21.00; 52.8861; 11.7464;19311201;19521231;Seehausen
+  4642;   23.00; 52.8894; 11.7527;19530101;19700116;Seehausen
+  4642;   21.00; 52.8906; 11.7298;19700117;19760930;Seehausen
+  4642;   21.55; 52.8911; 11.7297;19761001;        ;Seehausen

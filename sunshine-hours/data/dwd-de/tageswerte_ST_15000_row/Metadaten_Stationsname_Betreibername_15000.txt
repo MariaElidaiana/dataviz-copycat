@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 15000;Aachen-Orsbach;20101020;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+ 15000;DWD;20101020;
+generiert: 23.10.2025 --  Deutscher Wetterdienst  --
