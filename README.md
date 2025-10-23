@@ -1,5 +1,8 @@
-# dataviz_copycat
-copycatting interesting dataviz plots for inspiration 
+# dataviz-copycat
+
+In this repository I reproduce some nice dataviz plots/charts that I have seen on the web using Python/matplotlib. 
+
+The scripts and plots/charts will be presented in Jupyter Notebooks.  
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
